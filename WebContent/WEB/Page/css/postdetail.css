@@ -1,0 +1,148 @@
+@CHARSET "UTF-8";
+.fatiehfh{
+	height:33px;
+	
+
+	 align-items: center;
+	display: -webkit-flex;
+	margin-bottom: 10px;
+	position: relative;
+	
+}
+.postbtn{ 
+	
+	
+	
+	height: 33px;
+	width:88px;
+	cursor:pointer;
+	background: url(../image/pn_post.png) no-repeat 0 0;
+}
+.fhlb{
+	position:absolute;
+	right:0px;
+	border-radius:5px;
+	font: 14px/1.5 Tahoma,'Microsoft Yahei','Simsun';
+	color: #444;
+	line-height:30px;
+	text-align:center;
+	height:30px;
+	border:1px solid #C2D5E3;;
+	width: 80px;
+	
+}
+.fhlb:HOVER{
+	cursor: pointer;
+	border-color: #369;
+    color: #369;
+}
+.tiezitou{
+	font: 12px/1.5 Tahoma,'Microsoft Yahei','Simsun';
+    color: #444;
+	text-align:center;
+		height:40px;
+		border-color: #ccc;
+	border-style:solid; 
+	border-width:1px 1px 0px 1px;
+	
+}
+
+.td2style{
+	
+	font-weight:bold;
+	font-size: 15px;
+	 color: #333;
+	text-align:left;
+	
+}
+.td2{
+	
+	text-align:left;
+}
+
+.tiezitou td{
+	border-bottom:1px dashed #ccc;
+	
+}
+.tiezicon{
+	text-align:center;
+	font: 15px/1.5 Tahoma,'Microsoft Yahei','Simsun';
+    color: #444;
+	border-color: #ccc;
+	border-style:solid; 
+	
+	border-width:0px 1px 1px 1px;
+	
+}
+
+.tdul{
+	border-bottom:1px dashed #ccc;
+	
+}
+.tdul2{
+	
+	border-top:1px solid #C2D5E3;
+}
+.chzl{
+	
+	margin-bottom: 10px;
+}
+.2td{
+	
+	text-align:left;
+}
+.bg{
+	background: #E5EDF2;
+	
+}
+.tdpic{
+	padding:10px;
+	height:160px;
+	background: #E5EDF2;
+/* 	position:absolute;
+	top:0px; */
+	
+}
+.tdcon{
+		padding:10px 20px;
+		text-align: left;
+			
+}
+.tdcontable{
+	text-align:left;
+}
+
+
+.tdcontable th,td{
+	
+	height: 30px;
+}
+.reply{
+	
+	
+	height:250px;
+	border:1px solid  #ccc;
+	
+}
+.userphoto{
+	background:#E5EDF2;
+	width:20%;
+	height:100%;
+	justify-content: center;
+	  align-items: center;
+	display: -webkit-flex;
+
+	
+}
+.editordiv{
+	
+	padding: 20px;
+	
+}
+.fbht{
+	margin-top:10px;
+	width:72px;
+	height:28px;
+	 background:url("../image/fbht.png") repeat-x 0 0;
+	cursor: pointer;
+}

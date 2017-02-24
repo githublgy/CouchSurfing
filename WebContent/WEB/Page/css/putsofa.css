@@ -1,0 +1,59 @@
+@CHARSET "UTF-8";
+.fusft{
+	
+   margin:10px 0px;
+  padding-left:5px;
+    border-bottom: 1px solid #CDCDCD;
+    height: 30px; 
+   
+}
+.fusft1{
+	text-align:center;
+	font: 12px/1.5 Tahoma,Helvetica,'SimSun',sans-serif;
+    color: #444;
+	font-weight:bold;
+    line-height: 30px;
+   border-color:#CDCDCD;
+	border-style:solid; 
+	border-width:1px 1px 0px 1px;
+    height: 30px; 
+    width:70px;
+    background-color: white;
+   
+}
+.sflxhzt{
+	font: 12px/1.5 Tahoma,Helvetica,'SimSun',sans-serif;
+    color: #444;
+      line-height: 30px;
+	height: 30px; 
+	 /*  border: 1px solid #CDCDCD; */
+}
+.ftjtnrdiv{
+	 border: 1px dashed #E5EDF2;
+	padding: 10px;
+	background: #E5EDF2;
+}
+.ftjtnr{
+	font: 14px/1.5 Tahoma,'Microsoft Yahei','Simsun';
+	color: #444;
+	background: #E5EDF2;
+	
+}
+.ftjtnr td{
+	
+	border-color: #ccc;
+	border-style:dashed; 
+	border-width:0px 0px 1px 0px;
+	
+}
+
+.aselect {
+	font: 12px/1.5 Tahoma,Helvetica,'SimSun',sans-serif;
+    color: #444;
+	
+}
+.tishi{
+	color:#999;
+	font-size: 10px;
+	
+}
